@@ -60,30 +60,3 @@ main {
     font-family: cursive;
     text-align: center;
 }
-
-footer ul {
-    padding: 0;
-    list-style: none;
-
-    display: flex;
-    justify-content: center;
-}
-
-footer ul a {
-    color: hsl(257, 40%, 49%);
-    border: 2px solid #fff;
-    border-radius: 50%;
-    background-color: #fff;
-    
-    width: 40px;
-    height: 40px;
-
-    font-size: 19px;
-    text-decoration: none;
-
-    margin-left: 20px;
-
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-}
